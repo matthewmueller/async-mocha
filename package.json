@@ -1,0 +1,19 @@
+{
+  "name": "async-mocha",
+  "version": "1.0.0",
+  "description": "easily use async/await with mocha",
+  "keywords": [
+    "mocha",
+    "async",
+    "await"
+  ],
+  "author": "Matthew Mueller <mattmuelle@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/MatthewMueller/async-mocha.git"
+  },
+  "dependencies": {
+    "async-to-gen": "1.0.0"
+  },
+  "main": "index"
+}
