@@ -1,7 +1,7 @@
 
 # async-mocha
 
-  *tiny* wrapper around async-to-gen for slightly less thinking.
+  **tiny** wrapper around [async-to-gen](https://github.com/leebyron/async-to-gen) for **slightly** less thinking.
 
 ## How to use
 
